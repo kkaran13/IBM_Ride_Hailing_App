@@ -1,16 +1,9 @@
-# Environment Variables Used in IBM_Ride_Hailing_App
+# Environment Variables Report
+Scanned Branch: **main**
 
-Scanned branch: `main`
-
-## Variables Found
-- `0`
-- `AUTO_REFRESH_MS`
-- `DEMO`
-- `MATPLOTLIB_AVAILABLE`
-- `REPORT`
-- `RESULTS`
-- `SUITE`
-- `__`
-- `amount:.2f`
-- `fare`
-- `ride.fare`
+## /home/runner/work/markdown-automation/markdown-automation/scripts/scan_envs.py
+- `TARGET_BRANCH`
+- `encoding`
+- `errors`
+- `format`
+- `main`
